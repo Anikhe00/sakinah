@@ -24,7 +24,13 @@ npm run build      # checks the content, type-checks, builds to dist/
 npm run preview    # http://localhost:4173
 ```
 
-To install it on your phone, deploy `dist/` to any static host with HTTPS (Netlify, Vercel, Cloudflare Pages, GitHub Pages). Open it in Safari on iOS and choose **Share → Add to Home Screen**, or in Chrome on Android choose **Install app**. After the first visit it opens and works offline.
+### Hosting on GitHub Pages
+
+`.github/workflows/deploy.yml` builds and deploys the app on every push to `main`. It serves the app at `https://<user>.github.io/<repo>/` and sets `BASE_PATH` so the paths and service worker work under that folder. Turn it on once, in the repo's **Settings → Pages → Build and deployment → Source: GitHub Actions**, then rerun the workflow from the **Actions** tab (or push to `main`).
+
+To build for another folder locally: `BASE_PATH=/sakinah/ npm run build`. Any other static host with HTTPS works too (Netlify, Vercel, Cloudflare Pages). Deploy `dist/` there without `BASE_PATH`.
+
+To install it on your phone, open the hosted URL in Safari on iOS and choose **Share → Add to Home Screen**, or in Chrome on Android choose **Install app**. After the first visit it opens and works offline.
 
 ## How the content works
 
