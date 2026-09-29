@@ -1,0 +1,132 @@
+@import 'tailwindcss';
+@import '@fontsource/amiri/arabic-400.css';
+@import '@fontsource-variable/newsreader';
+@import '@fontsource-variable/newsreader/wght-italic.css';
+@import '@fontsource-variable/instrument-sans';
+
+:root {
+  color-scheme: light;
+  --bg: #e4eeea;
+  --bg-deep: #d6e5e0;
+  --surface: #f4f8f6;
+  --surface-2: #eaf2ef;
+  --line: #c6d8d2;
+  --ink: #16263d;
+  --ink-soft: #465a6e;
+  --accent: #266f6a;
+  --accent-soft: #d3e7e2;
+  --on-accent: #ffffff;
+  --gold: #7d6229;
+  --focus: #1f5f9e;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([data-theme='light']) {
+    color-scheme: dark;
+    --bg: #0f1b21;
+    --bg-deep: #0b151a;
+    --surface: #16252c;
+    --surface-2: #1c2e35;
+    --line: #2a4048;
+    --ink: #e2ebe8;
+    --ink-soft: #9fb3b3;
+    --accent: #6cc0b5;
+    --accent-soft: #1d3a3b;
+    --on-accent: #0c1a1f;
+    --gold: #c8ad72;
+    --focus: #9ccfff;
+  }
+}
+
+:root[data-theme='dark'] {
+  color-scheme: dark;
+  --bg: #0f1b21;
+  --bg-deep: #0b151a;
+  --surface: #16252c;
+  --surface-2: #1c2e35;
+  --line: #2a4048;
+  --ink: #e2ebe8;
+  --ink-soft: #9fb3b3;
+  --accent: #6cc0b5;
+  --accent-soft: #1d3a3b;
+  --on-accent: #0c1a1f;
+  --gold: #c8ad72;
+  --focus: #9ccfff;
+}
+
+@theme inline {
+  --color-bg: var(--bg);
+  --color-bg-deep: var(--bg-deep);
+  --color-surface: var(--surface);
+  --color-surface-2: var(--surface-2);
+  --color-line: var(--line);
+  --color-ink: var(--ink);
+  --color-ink-soft: var(--ink-soft);
+  --color-accent: var(--accent);
+  --color-accent-soft: var(--accent-soft);
+  --color-on-accent: var(--on-accent);
+  --color-gold: var(--gold);
+
+  --font-ui: 'Instrument Sans Variable', ui-sans-serif, system-ui, sans-serif;
+  --font-serif: 'Newsreader Variable', Georgia, serif;
+  --font-arabic: 'Amiri', 'Noto Naskh Arabic', serif;
+}
+
+html {
+  background: var(--bg);
+}
+
+body {
+  margin: 0;
+  min-height: 100dvh;
+  background: radial-gradient(120% 80% at 50% 0%, var(--surface-2) 0%, var(--bg) 55%, var(--bg-deep) 100%)
+    fixed;
+  color: var(--ink);
+  font-family: var(--font-ui);
+  -webkit-font-smoothing: antialiased;
+  -webkit-tap-highlight-color: transparent;
+}
+
+:focus-visible {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+  border-radius: 12px;
+}
+
+.arabic {
+  font-family: var(--font-arabic);
+  direction: rtl;
+  font-feature-settings: 'kern', 'liga', 'calt';
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .fade-in {
+    animation: fade-in 420ms ease-out both;
+  }
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+    transform: translateY(6px);
+  }
+  to {
+    opacity: 1;
+    transform: none;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.chip:has(:focus-visible) {
+  outline: 3px solid var(--focus);
+  outline-offset: 2px;
+}
