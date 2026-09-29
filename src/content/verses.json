@@ -1,0 +1,770 @@
+{
+  "anxious": [
+    {
+      "id": "v-13-28",
+      "ref": "13:28",
+      "meaning": "Those who believe, and whose hearts settle in the remembrance of Allah. Know that it is in remembering Allah that hearts find rest.",
+      "surah": {
+        "number": 13,
+        "name": "Ar-Ra'd",
+        "arabicName": "الرعد"
+      },
+      "ayat": [
+        {
+          "ayah": 28,
+          "text": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ"
+        }
+      ]
+    },
+    {
+      "id": "v-65-2-3",
+      "ref": "65:2-3",
+      "excerpt": {
+        "from": "ومن يتق الله"
+      },
+      "meaning": "Whoever is mindful of Allah, He will open a way out for them, and provide for them from where they never expected. Whoever relies on Allah, He is enough for them. Allah will surely bring about what He wills; He has set a measure for everything.",
+      "surah": {
+        "number": 65,
+        "name": "At-Talaq",
+        "arabicName": "الطلاق"
+      },
+      "ayat": [
+        {
+          "ayah": 2,
+          "text": "وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا"
+        },
+        {
+          "ayah": 3,
+          "text": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا"
+        }
+      ]
+    },
+    {
+      "id": "v-9-51",
+      "ref": "9:51",
+      "meaning": "Say: \"Nothing will reach us except what Allah has written for us. He is our Protector.\" So in Allah let the believers put their trust.",
+      "surah": {
+        "number": 9,
+        "name": "At-Tawba",
+        "arabicName": "التوبة"
+      },
+      "ayat": [
+        {
+          "ayah": 51,
+          "text": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
+        }
+      ]
+    },
+    {
+      "id": "v-2-286",
+      "ref": "2:286",
+      "meaning": "Allah does not place on any soul more than it can carry. Each gains the good it has done and bears the wrong it has done. \"Our Lord, do not hold us to account if we forget or slip. Our Lord, do not lay on us a burden like the one laid on those before us. Our Lord, do not load us with more than we have strength for. Pardon us, forgive us, have mercy on us. You are our Protector, so help us against those who deny the truth.\"",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 286,
+          "text": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ"
+        }
+      ]
+    }
+  ],
+  "sad": [
+    {
+      "id": "v-93-3",
+      "ref": "93:3",
+      "meaning": "Your Lord has not left you, and He is not displeased with you.",
+      "surah": {
+        "number": 93,
+        "name": "Ad-Duha",
+        "arabicName": "الضحى"
+      },
+      "ayat": [
+        {
+          "ayah": 3,
+          "text": "مَا وَدَّعَكَ رَبُّكَ وَمَا قَلَىٰ"
+        }
+      ]
+    },
+    {
+      "id": "v-12-86-87",
+      "ref": "12:86-87",
+      "meaning": "(Yaqub) said: \"I only pour out my grief and sorrow to Allah, and I know from Allah what you do not know. My sons, go and search for Yusuf and his brother, and never lose hope in the mercy of Allah. Only those who reject faith lose hope in the mercy of Allah.\"",
+      "surah": {
+        "number": 12,
+        "name": "Yusuf",
+        "arabicName": "يوسف"
+      },
+      "ayat": [
+        {
+          "ayah": 86,
+          "text": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ"
+        },
+        {
+          "ayah": 87,
+          "text": "يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ"
+        }
+      ]
+    },
+    {
+      "id": "v-94-5-8",
+      "ref": "94:5-8",
+      "meaning": "So truly, with hardship comes ease. Truly, with hardship comes ease. So when you are free, keep striving, and turn to your Lord with longing.",
+      "surah": {
+        "number": 94,
+        "name": "Ash-Sharh",
+        "arabicName": "الشرح"
+      },
+      "ayat": [
+        {
+          "ayah": 5,
+          "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 6,
+          "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 7,
+          "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ"
+        },
+        {
+          "ayah": 8,
+          "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
+        }
+      ]
+    }
+  ],
+  "lonely": [
+    {
+      "id": "v-2-186",
+      "ref": "2:186",
+      "meaning": "When My servants ask you about Me, I am near. I answer the one who calls when they call on Me. So let them respond to Me and believe in Me, so that they may be rightly guided.",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 186,
+          "text": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ"
+        }
+      ]
+    },
+    {
+      "id": "v-50-16",
+      "ref": "50:16",
+      "meaning": "We created the human being, and We know what their own self whispers to them. We are closer to them than their jugular vein.",
+      "surah": {
+        "number": 50,
+        "name": "Qaf",
+        "arabicName": "ق"
+      },
+      "ayat": [
+        {
+          "ayah": 16,
+          "text": "وَلَقَدْ خَلَقْنَا ٱلْإِنسَـٰنَ وَنَعْلَمُ مَا تُوَسْوِسُ بِهِۦ نَفْسُهُۥ ۖ وَنَحْنُ أَقْرَبُ إِلَيْهِ مِنْ حَبْلِ ٱلْوَرِيدِ"
+        }
+      ]
+    },
+    {
+      "id": "v-20-46",
+      "ref": "20:46",
+      "meaning": "(Allah) said: \"Do not be afraid. I am with you both. I hear and I see.\"",
+      "surah": {
+        "number": 20,
+        "name": "Ta-Ha",
+        "arabicName": "طه"
+      },
+      "ayat": [
+        {
+          "ayah": 46,
+          "text": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ"
+        }
+      ]
+    }
+  ],
+  "overwhelmed": [
+    {
+      "id": "v-2-286",
+      "ref": "2:286",
+      "meaning": "Allah does not place on any soul more than it can carry. Each gains the good it has done and bears the wrong it has done. \"Our Lord, do not hold us to account if we forget or slip. Our Lord, do not lay on us a burden like the one laid on those before us. Our Lord, do not load us with more than we have strength for. Pardon us, forgive us, have mercy on us. You are our Protector, so help us against those who deny the truth.\"",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 286,
+          "text": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ"
+        }
+      ]
+    },
+    {
+      "id": "v-94-5-8",
+      "ref": "94:5-8",
+      "meaning": "So truly, with hardship comes ease. Truly, with hardship comes ease. So when you are free, keep striving, and turn to your Lord with longing.",
+      "surah": {
+        "number": 94,
+        "name": "Ash-Sharh",
+        "arabicName": "الشرح"
+      },
+      "ayat": [
+        {
+          "ayah": 5,
+          "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 6,
+          "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 7,
+          "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ"
+        },
+        {
+          "ayah": 8,
+          "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
+        }
+      ]
+    },
+    {
+      "id": "v-65-2-3",
+      "ref": "65:2-3",
+      "excerpt": {
+        "from": "ومن يتق الله"
+      },
+      "meaning": "Whoever is mindful of Allah, He will open a way out for them, and provide for them from where they never expected. Whoever relies on Allah, He is enough for them. Allah will surely bring about what He wills; He has set a measure for everything.",
+      "surah": {
+        "number": 65,
+        "name": "At-Talaq",
+        "arabicName": "الطلاق"
+      },
+      "ayat": [
+        {
+          "ayah": 2,
+          "text": "وَمَن يَتَّقِ ٱللَّهَ يَجْعَل لَّهُۥ مَخْرَجًا"
+        },
+        {
+          "ayah": 3,
+          "text": "وَيَرْزُقْهُ مِنْ حَيْثُ لَا يَحْتَسِبُ ۚ وَمَن يَتَوَكَّلْ عَلَى ٱللَّهِ فَهُوَ حَسْبُهُۥٓ ۚ إِنَّ ٱللَّهَ بَـٰلِغُ أَمْرِهِۦ ۚ قَدْ جَعَلَ ٱللَّهُ لِكُلِّ شَىْءٍ قَدْرًا"
+        }
+      ]
+    },
+    {
+      "id": "v-2-45",
+      "ref": "2:45",
+      "meaning": "Seek help through patience and prayer. It is truly hard, except for those whose hearts are humble.",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 45,
+          "text": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ"
+        }
+      ]
+    }
+  ],
+  "tired": [
+    {
+      "id": "v-2-45",
+      "ref": "2:45",
+      "meaning": "Seek help through patience and prayer. It is truly hard, except for those whose hearts are humble.",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 45,
+          "text": "وَٱسْتَعِينُوا۟ بِٱلصَّبْرِ وَٱلصَّلَوٰةِ ۚ وَإِنَّهَا لَكَبِيرَةٌ إِلَّا عَلَى ٱلْخَـٰشِعِينَ"
+        }
+      ]
+    },
+    {
+      "id": "v-94-5-8",
+      "ref": "94:5-8",
+      "meaning": "So truly, with hardship comes ease. Truly, with hardship comes ease. So when you are free, keep striving, and turn to your Lord with longing.",
+      "surah": {
+        "number": 94,
+        "name": "Ash-Sharh",
+        "arabicName": "الشرح"
+      },
+      "ayat": [
+        {
+          "ayah": 5,
+          "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 6,
+          "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 7,
+          "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ"
+        },
+        {
+          "ayah": 8,
+          "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
+        }
+      ]
+    },
+    {
+      "id": "v-13-28",
+      "ref": "13:28",
+      "meaning": "Those who believe, and whose hearts settle in the remembrance of Allah. Know that it is in remembering Allah that hearts find rest.",
+      "surah": {
+        "number": 13,
+        "name": "Ar-Ra'd",
+        "arabicName": "الرعد"
+      },
+      "ayat": [
+        {
+          "ayah": 28,
+          "text": "ٱلَّذِينَ ءَامَنُوا۟ وَتَطْمَئِنُّ قُلُوبُهُم بِذِكْرِ ٱللَّهِ ۗ أَلَا بِذِكْرِ ٱللَّهِ تَطْمَئِنُّ ٱلْقُلُوبُ"
+        }
+      ]
+    }
+  ],
+  "behind-on-studies": [
+    {
+      "id": "v-20-114",
+      "ref": "20:114",
+      "meaning": "High above all is Allah, the True King. Do not hurry to recite the Qur'an before its revelation to you is complete, and say: \"My Lord, increase me in knowledge.\"",
+      "surah": {
+        "number": 20,
+        "name": "Ta-Ha",
+        "arabicName": "طه"
+      },
+      "ayat": [
+        {
+          "ayah": 114,
+          "text": "فَتَعَـٰلَى ٱللَّهُ ٱلْمَلِكُ ٱلْحَقُّ ۗ وَلَا تَعْجَلْ بِٱلْقُرْءَانِ مِن قَبْلِ أَن يُقْضَىٰٓ إِلَيْكَ وَحْيُهُۥ ۖ وَقُل رَّبِّ زِدْنِى عِلْمًا"
+        }
+      ]
+    },
+    {
+      "id": "v-53-39",
+      "ref": "53:39",
+      "meaning": "A person has nothing except what they strive for.",
+      "surah": {
+        "number": 53,
+        "name": "An-Najm",
+        "arabicName": "النجم"
+      },
+      "ayat": [
+        {
+          "ayah": 39,
+          "text": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ"
+        }
+      ]
+    },
+    {
+      "id": "v-2-286",
+      "ref": "2:286",
+      "meaning": "Allah does not place on any soul more than it can carry. Each gains the good it has done and bears the wrong it has done. \"Our Lord, do not hold us to account if we forget or slip. Our Lord, do not lay on us a burden like the one laid on those before us. Our Lord, do not load us with more than we have strength for. Pardon us, forgive us, have mercy on us. You are our Protector, so help us against those who deny the truth.\"",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 286,
+          "text": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ"
+        }
+      ]
+    }
+  ],
+  "unmotivated": [
+    {
+      "id": "v-53-39",
+      "ref": "53:39",
+      "meaning": "A person has nothing except what they strive for.",
+      "surah": {
+        "number": 53,
+        "name": "An-Najm",
+        "arabicName": "النجم"
+      },
+      "ayat": [
+        {
+          "ayah": 39,
+          "text": "وَأَن لَّيْسَ لِلْإِنسَـٰنِ إِلَّا مَا سَعَىٰ"
+        }
+      ]
+    },
+    {
+      "id": "v-13-11",
+      "ref": "13:11",
+      "excerpt": {
+        "from": "إن الله لا يغير",
+        "to": "ما بأنفسهم"
+      },
+      "meaning": "Truly, Allah does not change the condition of a people until they change what is within themselves.",
+      "surah": {
+        "number": 13,
+        "name": "Ar-Ra'd",
+        "arabicName": "الرعد"
+      },
+      "ayat": [
+        {
+          "ayah": 11,
+          "text": "إِنَّ ٱللَّهَ لَا يُغَيِّرُ مَا بِقَوْمٍ حَتَّىٰ يُغَيِّرُوا۟ مَا بِأَنفُسِهِمْ"
+        }
+      ]
+    },
+    {
+      "id": "v-94-5-8",
+      "ref": "94:5-8",
+      "meaning": "So truly, with hardship comes ease. Truly, with hardship comes ease. So when you are free, keep striving, and turn to your Lord with longing.",
+      "surah": {
+        "number": 94,
+        "name": "Ash-Sharh",
+        "arabicName": "الشرح"
+      },
+      "ayat": [
+        {
+          "ayah": 5,
+          "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 6,
+          "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 7,
+          "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ"
+        },
+        {
+          "ayah": 8,
+          "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
+        }
+      ]
+    }
+  ],
+  "angry": [
+    {
+      "id": "v-3-134",
+      "ref": "3:134",
+      "meaning": "Those who give in times of ease and hardship, who hold back their anger and pardon people. Allah loves those who do good.",
+      "surah": {
+        "number": 3,
+        "name": "Aal-i-Imran",
+        "arabicName": "آل عمران"
+      },
+      "ayat": [
+        {
+          "ayah": 134,
+          "text": "ٱلَّذِينَ يُنفِقُونَ فِى ٱلسَّرَّآءِ وَٱلضَّرَّآءِ وَٱلْكَـٰظِمِينَ ٱلْغَيْظَ وَٱلْعَافِينَ عَنِ ٱلنَّاسِ ۗ وَٱللَّهُ يُحِبُّ ٱلْمُحْسِنِينَ"
+        }
+      ]
+    },
+    {
+      "id": "v-41-34",
+      "ref": "41:34",
+      "meaning": "Good and evil are not equal. Answer evil with what is better, and the one you had hostility with will become like a warm, close friend.",
+      "surah": {
+        "number": 41,
+        "name": "Fussilat",
+        "arabicName": "فصلت"
+      },
+      "ayat": [
+        {
+          "ayah": 34,
+          "text": "وَلَا تَسْتَوِى ٱلْحَسَنَةُ وَلَا ٱلسَّيِّئَةُ ۚ ٱدْفَعْ بِٱلَّتِى هِىَ أَحْسَنُ فَإِذَا ٱلَّذِى بَيْنَكَ وَبَيْنَهُۥ عَدَٰوَةٌ كَأَنَّهُۥ وَلِىٌّ حَمِيمٌ"
+        }
+      ]
+    }
+  ],
+  "guilty": [
+    {
+      "id": "v-39-53",
+      "ref": "39:53",
+      "meaning": "Say: \"My servants who have wronged yourselves, do not despair of the mercy of Allah. Allah forgives all sins. He is the Forgiving, the Merciful.\"",
+      "surah": {
+        "number": 39,
+        "name": "Az-Zumar",
+        "arabicName": "الزمر"
+      },
+      "ayat": [
+        {
+          "ayah": 53,
+          "text": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
+        }
+      ]
+    },
+    {
+      "id": "v-4-110",
+      "ref": "4:110",
+      "meaning": "Whoever does wrong or wrongs themselves, then asks Allah for forgiveness, will find Allah Forgiving and Merciful.",
+      "surah": {
+        "number": 4,
+        "name": "An-Nisa",
+        "arabicName": "النساء"
+      },
+      "ayat": [
+        {
+          "ayah": 110,
+          "text": "وَمَن يَعْمَلْ سُوٓءًا أَوْ يَظْلِمْ نَفْسَهُۥ ثُمَّ يَسْتَغْفِرِ ٱللَّهَ يَجِدِ ٱللَّهَ غَفُورًا رَّحِيمًا"
+        }
+      ]
+    },
+    {
+      "id": "v-2-286",
+      "ref": "2:286",
+      "meaning": "Allah does not place on any soul more than it can carry. Each gains the good it has done and bears the wrong it has done. \"Our Lord, do not hold us to account if we forget or slip. Our Lord, do not lay on us a burden like the one laid on those before us. Our Lord, do not load us with more than we have strength for. Pardon us, forgive us, have mercy on us. You are our Protector, so help us against those who deny the truth.\"",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 286,
+          "text": "لَا يُكَلِّفُ ٱللَّهُ نَفْسًا إِلَّا وُسْعَهَا ۚ لَهَا مَا كَسَبَتْ وَعَلَيْهَا مَا ٱكْتَسَبَتْ ۗ رَبَّنَا لَا تُؤَاخِذْنَآ إِن نَّسِينَآ أَوْ أَخْطَأْنَا ۚ رَبَّنَا وَلَا تَحْمِلْ عَلَيْنَآ إِصْرًا كَمَا حَمَلْتَهُۥ عَلَى ٱلَّذِينَ مِن قَبْلِنَا ۚ رَبَّنَا وَلَا تُحَمِّلْنَا مَا لَا طَاقَةَ لَنَا بِهِۦ ۖ وَٱعْفُ عَنَّا وَٱغْفِرْ لَنَا وَٱرْحَمْنَآ ۚ أَنتَ مَوْلَىٰنَا فَٱنصُرْنَا عَلَى ٱلْقَوْمِ ٱلْكَـٰفِرِينَ"
+        }
+      ]
+    }
+  ],
+  "afraid": [
+    {
+      "id": "v-9-51",
+      "ref": "9:51",
+      "meaning": "Say: \"Nothing will reach us except what Allah has written for us. He is our Protector.\" So in Allah let the believers put their trust.",
+      "surah": {
+        "number": 9,
+        "name": "At-Tawba",
+        "arabicName": "التوبة"
+      },
+      "ayat": [
+        {
+          "ayah": 51,
+          "text": "قُل لَّن يُصِيبَنَآ إِلَّا مَا كَتَبَ ٱللَّهُ لَنَا هُوَ مَوْلَىٰنَا ۚ وَعَلَى ٱللَّهِ فَلْيَتَوَكَّلِ ٱلْمُؤْمِنُونَ"
+        }
+      ]
+    },
+    {
+      "id": "v-3-173",
+      "ref": "3:173",
+      "meaning": "Those who were told, \"People have gathered against you, so fear them,\" but it only increased their faith, and they said: \"Allah is enough for us, and He is the best one to rely on.\"",
+      "surah": {
+        "number": 3,
+        "name": "Aal-i-Imran",
+        "arabicName": "آل عمران"
+      },
+      "ayat": [
+        {
+          "ayah": 173,
+          "text": "ٱلَّذِينَ قَالَ لَهُمُ ٱلنَّاسُ إِنَّ ٱلنَّاسَ قَدْ جَمَعُوا۟ لَكُمْ فَٱخْشَوْهُمْ فَزَادَهُمْ إِيمَـٰنًا وَقَالُوا۟ حَسْبُنَا ٱللَّهُ وَنِعْمَ ٱلْوَكِيلُ"
+        }
+      ]
+    },
+    {
+      "id": "v-20-46",
+      "ref": "20:46",
+      "meaning": "(Allah) said: \"Do not be afraid. I am with you both. I hear and I see.\"",
+      "surah": {
+        "number": 20,
+        "name": "Ta-Ha",
+        "arabicName": "طه"
+      },
+      "ayat": [
+        {
+          "ayah": 46,
+          "text": "قَالَ لَا تَخَافَآ ۖ إِنَّنِى مَعَكُمَآ أَسْمَعُ وَأَرَىٰ"
+        }
+      ]
+    }
+  ],
+  "grateful": [
+    {
+      "id": "v-14-7",
+      "ref": "14:7",
+      "meaning": "And remember when your Lord declared: \"If you are grateful, I will surely give you more. But if you are ungrateful, My punishment is severe.\"",
+      "surah": {
+        "number": 14,
+        "name": "Ibrahim",
+        "arabicName": "إبراهيم"
+      },
+      "ayat": [
+        {
+          "ayah": 7,
+          "text": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ"
+        }
+      ]
+    },
+    {
+      "id": "v-55-13",
+      "ref": "55:13",
+      "meaning": "So which of your Lord's favours will you deny?",
+      "surah": {
+        "number": 55,
+        "name": "Ar-Rahman",
+        "arabicName": "الرحمن"
+      },
+      "ayat": [
+        {
+          "ayah": 13,
+          "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+        }
+      ]
+    },
+    {
+      "id": "v-93-11",
+      "ref": "93:11",
+      "meaning": "And as for the blessings of your Lord, speak of them.",
+      "surah": {
+        "number": 93,
+        "name": "Ad-Duha",
+        "arabicName": "الضحى"
+      },
+      "ayat": [
+        {
+          "ayah": 11,
+          "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ"
+        }
+      ]
+    }
+  ],
+  "happy": [
+    {
+      "id": "v-93-11",
+      "ref": "93:11",
+      "meaning": "And as for the blessings of your Lord, speak of them.",
+      "surah": {
+        "number": 93,
+        "name": "Ad-Duha",
+        "arabicName": "الضحى"
+      },
+      "ayat": [
+        {
+          "ayah": 11,
+          "text": "وَأَمَّا بِنِعْمَةِ رَبِّكَ فَحَدِّثْ"
+        }
+      ]
+    },
+    {
+      "id": "v-14-7",
+      "ref": "14:7",
+      "meaning": "And remember when your Lord declared: \"If you are grateful, I will surely give you more. But if you are ungrateful, My punishment is severe.\"",
+      "surah": {
+        "number": 14,
+        "name": "Ibrahim",
+        "arabicName": "إبراهيم"
+      },
+      "ayat": [
+        {
+          "ayah": 7,
+          "text": "وَإِذْ تَأَذَّنَ رَبُّكُمْ لَئِن شَكَرْتُمْ لَأَزِيدَنَّكُمْ ۖ وَلَئِن كَفَرْتُمْ إِنَّ عَذَابِى لَشَدِيدٌ"
+        }
+      ]
+    },
+    {
+      "id": "v-55-13",
+      "ref": "55:13",
+      "meaning": "So which of your Lord's favours will you deny?",
+      "surah": {
+        "number": 55,
+        "name": "Ar-Rahman",
+        "arabicName": "الرحمن"
+      },
+      "ayat": [
+        {
+          "ayah": 13,
+          "text": "فَبِأَىِّ ءَالَآءِ رَبِّكُمَا تُكَذِّبَانِ"
+        }
+      ]
+    }
+  ],
+  "hopeful": [
+    {
+      "id": "v-39-53",
+      "ref": "39:53",
+      "meaning": "Say: \"My servants who have wronged yourselves, do not despair of the mercy of Allah. Allah forgives all sins. He is the Forgiving, the Merciful.\"",
+      "surah": {
+        "number": 39,
+        "name": "Az-Zumar",
+        "arabicName": "الزمر"
+      },
+      "ayat": [
+        {
+          "ayah": 53,
+          "text": "۞ قُلْ يَـٰعِبَادِىَ ٱلَّذِينَ أَسْرَفُوا۟ عَلَىٰٓ أَنفُسِهِمْ لَا تَقْنَطُوا۟ مِن رَّحْمَةِ ٱللَّهِ ۚ إِنَّ ٱللَّهَ يَغْفِرُ ٱلذُّنُوبَ جَمِيعًا ۚ إِنَّهُۥ هُوَ ٱلْغَفُورُ ٱلرَّحِيمُ"
+        }
+      ]
+    },
+    {
+      "id": "v-94-5-8",
+      "ref": "94:5-8",
+      "meaning": "So truly, with hardship comes ease. Truly, with hardship comes ease. So when you are free, keep striving, and turn to your Lord with longing.",
+      "surah": {
+        "number": 94,
+        "name": "Ash-Sharh",
+        "arabicName": "الشرح"
+      },
+      "ayat": [
+        {
+          "ayah": 5,
+          "text": "فَإِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 6,
+          "text": "إِنَّ مَعَ ٱلْعُسْرِ يُسْرًا"
+        },
+        {
+          "ayah": 7,
+          "text": "فَإِذَا فَرَغْتَ فَٱنصَبْ"
+        },
+        {
+          "ayah": 8,
+          "text": "وَإِلَىٰ رَبِّكَ فَٱرْغَب"
+        }
+      ]
+    },
+    {
+      "id": "v-2-186",
+      "ref": "2:186",
+      "meaning": "When My servants ask you about Me, I am near. I answer the one who calls when they call on Me. So let them respond to Me and believe in Me, so that they may be rightly guided.",
+      "surah": {
+        "number": 2,
+        "name": "Al-Baqara",
+        "arabicName": "البقرة"
+      },
+      "ayat": [
+        {
+          "ayah": 186,
+          "text": "وَإِذَا سَأَلَكَ عِبَادِى عَنِّى فَإِنِّى قَرِيبٌ ۖ أُجِيبُ دَعْوَةَ ٱلدَّاعِ إِذَا دَعَانِ ۖ فَلْيَسْتَجِيبُوا۟ لِى وَلْيُؤْمِنُوا۟ بِى لَعَلَّهُمْ يَرْشُدُونَ"
+        }
+      ]
+    },
+    {
+      "id": "v-12-86-87",
+      "ref": "12:86-87",
+      "meaning": "(Yaqub) said: \"I only pour out my grief and sorrow to Allah, and I know from Allah what you do not know. My sons, go and search for Yusuf and his brother, and never lose hope in the mercy of Allah. Only those who reject faith lose hope in the mercy of Allah.\"",
+      "surah": {
+        "number": 12,
+        "name": "Yusuf",
+        "arabicName": "يوسف"
+      },
+      "ayat": [
+        {
+          "ayah": 86,
+          "text": "قَالَ إِنَّمَآ أَشْكُوا۟ بَثِّى وَحُزْنِىٓ إِلَى ٱللَّهِ وَأَعْلَمُ مِنَ ٱللَّهِ مَا لَا تَعْلَمُونَ"
+        },
+        {
+          "ayah": 87,
+          "text": "يَـٰبَنِىَّ ٱذْهَبُوا۟ فَتَحَسَّسُوا۟ مِن يُوسُفَ وَأَخِيهِ وَلَا تَا۟يْـَٔسُوا۟ مِن رَّوْحِ ٱللَّهِ ۖ إِنَّهُۥ لَا يَا۟يْـَٔسُ مِن رَّوْحِ ٱللَّهِ إِلَّا ٱلْقَوْمُ ٱلْكَـٰفِرُونَ"
+        }
+      ]
+    }
+  ]
+}

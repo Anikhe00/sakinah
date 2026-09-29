@@ -1,0 +1,262 @@
+{
+  "anxious": [
+    {
+      "id": "t-omar-suleiman-anxiety-and-trusting-allah",
+      "speaker": "Omar Suleiman",
+      "topic": "anxiety and trusting Allah",
+      "query": "Omar Suleiman anxiety"
+    },
+    {
+      "id": "t-yasmin-mogahed-letting-go-of-worry",
+      "speaker": "Yasmin Mogahed",
+      "topic": "letting go of worry",
+      "query": "Yasmin Mogahed worry anxiety"
+    },
+    {
+      "id": "t-nouman-ali-khan-how-hearts-find-rest",
+      "speaker": "Nouman Ali Khan",
+      "topic": "how hearts find rest",
+      "query": "Nouman Ali Khan hearts find rest remembrance of Allah"
+    }
+  ],
+  "sad": [
+    {
+      "id": "t-omar-suleiman-grief-and-the-year-of-sorrow",
+      "speaker": "Omar Suleiman",
+      "topic": "grief and the Year of Sorrow",
+      "query": "Omar Suleiman grief year of sorrow"
+    },
+    {
+      "id": "t-yasmin-mogahed-healing-a-broken-heart",
+      "speaker": "Yasmin Mogahed",
+      "topic": "healing a broken heart",
+      "query": "Yasmin Mogahed broken heart"
+    },
+    {
+      "id": "t-mufti-menk-getting-through-hard-times",
+      "speaker": "Mufti Menk",
+      "topic": "getting through hard times",
+      "query": "Mufti Menk hard times"
+    }
+  ],
+  "lonely": [
+    {
+      "id": "t-yasmin-mogahed-loneliness-and-the-heart",
+      "speaker": "Yasmin Mogahed",
+      "topic": "loneliness and the heart",
+      "query": "Yasmin Mogahed loneliness"
+    },
+    {
+      "id": "t-omar-suleiman-allah-being-near",
+      "speaker": "Omar Suleiman",
+      "topic": "Allah being near",
+      "query": "Omar Suleiman Allah is near"
+    },
+    {
+      "id": "t-mufti-menk-feeling-alone",
+      "speaker": "Mufti Menk",
+      "topic": "feeling alone",
+      "query": "Mufti Menk feeling alone"
+    }
+  ],
+  "overwhelmed": [
+    {
+      "id": "t-omar-suleiman-burnout",
+      "speaker": "Omar Suleiman",
+      "topic": "burnout",
+      "query": "Omar Suleiman burnout"
+    },
+    {
+      "id": "t-nouman-ali-khan-surah-ash-sharh-and-ease-after-hardship",
+      "speaker": "Nouman Ali Khan",
+      "topic": "Surah Ash-Sharh and ease after hardship",
+      "query": "Nouman Ali Khan Surah Ash-Sharh"
+    },
+    {
+      "id": "t-mufti-menk-stress",
+      "speaker": "Mufti Menk",
+      "topic": "stress",
+      "query": "Mufti Menk stress"
+    }
+  ],
+  "tired": [
+    {
+      "id": "t-omar-suleiman-burnout",
+      "speaker": "Omar Suleiman",
+      "topic": "burnout",
+      "query": "Omar Suleiman burnout"
+    },
+    {
+      "id": "t-nouman-ali-khan-patience-and-prayer",
+      "speaker": "Nouman Ali Khan",
+      "topic": "patience and prayer",
+      "query": "Nouman Ali Khan patience and prayer"
+    },
+    {
+      "id": "t-mufti-menk-taking-care-of-yourself",
+      "speaker": "Mufti Menk",
+      "topic": "taking care of yourself",
+      "query": "Mufti Menk take care of yourself"
+    }
+  ],
+  "behind-on-studies": [
+    {
+      "id": "t-omar-suleiman-barakah-in-your-time",
+      "speaker": "Omar Suleiman",
+      "topic": "barakah in your time",
+      "query": "Omar Suleiman barakah time productivity"
+    },
+    {
+      "id": "t-nouman-ali-khan-my-lord-increase-me-in-knowledge",
+      "speaker": "Nouman Ali Khan",
+      "topic": "\"My Lord, increase me in knowledge\"",
+      "query": "Nouman Ali Khan rabbi zidni ilma"
+    },
+    {
+      "id": "t-yasir-qadhi-seeking-knowledge",
+      "speaker": "Yasir Qadhi",
+      "topic": "seeking knowledge",
+      "query": "Yasir Qadhi seeking knowledge students"
+    }
+  ],
+  "unmotivated": [
+    {
+      "id": "t-nouman-ali-khan-motivation-and-consistency",
+      "speaker": "Nouman Ali Khan",
+      "topic": "motivation and consistency",
+      "query": "Nouman Ali Khan motivation"
+    },
+    {
+      "id": "t-omar-suleiman-small-deeds-done-consistently",
+      "speaker": "Omar Suleiman",
+      "topic": "small deeds done consistently",
+      "query": "Omar Suleiman consistent small deeds"
+    },
+    {
+      "id": "t-mufti-menk-overcoming-laziness",
+      "speaker": "Mufti Menk",
+      "topic": "overcoming laziness",
+      "query": "Mufti Menk laziness"
+    }
+  ],
+  "angry": [
+    {
+      "id": "t-omar-suleiman-controlling-anger",
+      "speaker": "Omar Suleiman",
+      "topic": "controlling anger",
+      "query": "Omar Suleiman anger"
+    },
+    {
+      "id": "t-mufti-menk-managing-anger",
+      "speaker": "Mufti Menk",
+      "topic": "managing anger",
+      "query": "Mufti Menk anger"
+    },
+    {
+      "id": "t-yasmin-mogahed-forgiving-others",
+      "speaker": "Yasmin Mogahed",
+      "topic": "forgiving others",
+      "query": "Yasmin Mogahed forgiveness"
+    }
+  ],
+  "guilty": [
+    {
+      "id": "t-omar-suleiman-repentance-and-the-mercy-of-allah",
+      "speaker": "Omar Suleiman",
+      "topic": "repentance and the mercy of Allah",
+      "query": "Omar Suleiman repentance mercy"
+    },
+    {
+      "id": "t-nouman-ali-khan-never-despairing-of-allah-s-mercy",
+      "speaker": "Nouman Ali Khan",
+      "topic": "never despairing of Allah's mercy",
+      "query": "Nouman Ali Khan do not despair mercy of Allah 39:53"
+    },
+    {
+      "id": "t-yasir-qadhi-tawbah",
+      "speaker": "Yasir Qadhi",
+      "topic": "tawbah",
+      "query": "Yasir Qadhi tawbah repentance"
+    }
+  ],
+  "afraid": [
+    {
+      "id": "t-omar-suleiman-tawakkul-trusting-allah",
+      "speaker": "Omar Suleiman",
+      "topic": "tawakkul, trusting Allah",
+      "query": "Omar Suleiman tawakkul"
+    },
+    {
+      "id": "t-nouman-ali-khan-musa-and-do-not-be-afraid",
+      "speaker": "Nouman Ali Khan",
+      "topic": "Musa and \"do not be afraid\"",
+      "query": "Nouman Ali Khan Musa do not fear"
+    },
+    {
+      "id": "t-mufti-menk-fear-and-courage",
+      "speaker": "Mufti Menk",
+      "topic": "fear and courage",
+      "query": "Mufti Menk fear"
+    }
+  ],
+  "grateful": [
+    {
+      "id": "t-omar-suleiman-gratitude",
+      "speaker": "Omar Suleiman",
+      "topic": "gratitude",
+      "query": "Omar Suleiman gratitude shukr"
+    },
+    {
+      "id": "t-nouman-ali-khan-surah-ar-rahman",
+      "speaker": "Nouman Ali Khan",
+      "topic": "Surah Ar-Rahman",
+      "query": "Nouman Ali Khan Surah Ar-Rahman"
+    },
+    {
+      "id": "t-mufti-menk-counting-your-blessings",
+      "speaker": "Mufti Menk",
+      "topic": "counting your blessings",
+      "query": "Mufti Menk blessings gratitude"
+    }
+  ],
+  "happy": [
+    {
+      "id": "t-nouman-ali-khan-surah-ad-duha",
+      "speaker": "Nouman Ali Khan",
+      "topic": "Surah Ad-Duha",
+      "query": "Nouman Ali Khan Surah Ad-Duha"
+    },
+    {
+      "id": "t-omar-suleiman-gratitude-in-good-times",
+      "speaker": "Omar Suleiman",
+      "topic": "gratitude in good times",
+      "query": "Omar Suleiman gratitude"
+    },
+    {
+      "id": "t-mufti-menk-true-happiness",
+      "speaker": "Mufti Menk",
+      "topic": "true happiness",
+      "query": "Mufti Menk happiness"
+    }
+  ],
+  "hopeful": [
+    {
+      "id": "t-omar-suleiman-thinking-well-of-allah",
+      "speaker": "Omar Suleiman",
+      "topic": "thinking well of Allah",
+      "query": "Omar Suleiman husn al dhann thinking good of Allah"
+    },
+    {
+      "id": "t-nouman-ali-khan-the-story-of-yusuf",
+      "speaker": "Nouman Ali Khan",
+      "topic": "the story of Yusuf",
+      "query": "Nouman Ali Khan story of Yusuf"
+    },
+    {
+      "id": "t-yasmin-mogahed-hope-after-hardship",
+      "speaker": "Yasmin Mogahed",
+      "topic": "hope after hardship",
+      "query": "Yasmin Mogahed hope"
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "generatedBy": "scripts/fetch-quran.mjs",
+  "arabicSource": [
+    "QUL Uthmani by Tarteel (bundled in quran-validator)"
+  ],
+  "crossCheckedAgainst": "King Fahd Complex Uthmani text via QuranEnc (quran-json)"
+}
